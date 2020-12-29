@@ -2,7 +2,7 @@
 
 * In this notebook, we learn a popular machine learning algorithm, Decision Tree. 
 * We will use this classification algorithm to build a model from historical data of patients, and their response to different medications. 
-* **Then we use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient.
+* **Then we use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient.**
 
 # About the dataset (context)
 Imagine that you are a medical researcher compiling data for a study. You have collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of 5 medications, Drug A, Drug B, Drug c, Drug x and y. 
