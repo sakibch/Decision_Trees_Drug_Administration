@@ -1,6 +1,6 @@
 # Predicting Suitable Medication using Decision Trees
 
-* In this notebook, we learn a popular machine learning algorithm, Decision Tree. 
+* In this notebook, we learn a popular machine learning algorithm, Decision Trees. 
 * We will use this classification algorithm to build a model from historical data of patients, and their response to different medications. 
 * **Then we use the trained decision tree to predict the class of a unknown patient, or to find a proper drug for a new patient.**
 
